@@ -8,7 +8,7 @@ This repository contains front-end projects built following the <a href="https:/
 
 Click any of the images below to view the readme and live demo of the project.
 
-<p>
+<p aligm="left">
   <a href="https://roadmap.sh/projects/single-page-cv">
     <img width="48%" src="./assets/single-page-cv.png" alt="personal portfolio">
   </a>
